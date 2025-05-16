@@ -1,3 +1,4 @@
+// equipe: Edgar e Levi
 // C++ code
 //
 #include <LiquidCrystal.h>
